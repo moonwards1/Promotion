@@ -1,2 +1,2 @@
-# Design
-This is for planning the overall path forward for Moonwards. 
+# Promo and Marketing
+For tracking tasks and discussing matters related to promotion and marketing.
